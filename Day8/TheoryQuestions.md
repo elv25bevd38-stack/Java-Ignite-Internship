@@ -33,8 +33,6 @@ OR
 Explain your choice.
 
 
-
-
 4)Imagine you are developing a cinema ticket booking system.
 
 Which information can be represented using a 2D array?
